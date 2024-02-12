@@ -1,4 +1,4 @@
-hi my previous project was data migration project
+1.hi my previous project was data migration project
 2 here we migrate data from on premese to cloud buckets
 3 our daily activity is to have catchup call with clients
 4 take the tasks and prepare design documents and take signoff
