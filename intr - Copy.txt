@@ -1,0 +1,12 @@
+hi my previous project was data migration project
+2 here we migrate data from on premese to cloud buckets
+3 our daily activity is to have catchup call with clients
+4 take the tasks and prepare design documents and take signoff
+5 then we get necessary details for the project like server details, type of file, bucket details 6 then will start developing the transport then will test the transport in our test server
+7 then will commit our code to github 8 here i was also working on jenkins
+9 i integrated jenkins with maven, sonarqube and nexus
+10 after committed webhook will trigger the pipeline which package our code into war and upload to nexus the our ASG team pulls the war from nexus and deploy it to production server
+11
+12 even i used terraform to create buckets and instances aswell 13 and in docker i used to create image like tomcat
+
+https://www.facebook.com/Kgf2rockeybhai
