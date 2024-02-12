@@ -1,5 +1,7 @@
-1.hi my previous project was data migration project
+1.hi my previous project was data migration project..
 2 here we migrate data from on premese to cloud buckets
+comming to my roles and responsibilities
+
 3 our daily activity is to have catchup call with clients
 4 take the tasks and prepare design documents and take signoff
 5 then we get necessary details for the project like server details, type of file, bucket details 6 then will start developing the transport then will test the transport in our test server
